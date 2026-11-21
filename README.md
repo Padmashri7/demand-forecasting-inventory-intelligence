@@ -173,21 +173,4 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · XGBoost ·
 | [Demand_Forecasting.ipynb](./Demand_Forecasting.ipynb) | Statistical and machine-learning forecasting experiments |
 | [Visualisations](./images/) | Project charts and analytical visualisations |
 
-## Running the Project
-
-1. Clone or download this repository.
-2. Install the required Python libraries.
-3. Obtain the original historical product demand dataset.
-4. Place the dataset in the location expected by the notebooks, or update the file path.
-5. Open the notebooks in Jupyter Notebook or JupyterLab.
-6. Run the cells in sequence.
-
-Install the main dependencies:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels jupyter
-```
-
----
-
 **Project takeaway:** Better inventory planning requires more than a single demand forecast. It requires understanding where demand occurs, how frequently it occurs, how variable it is, and how much confidence decision-makers should place in the model's predictions.
