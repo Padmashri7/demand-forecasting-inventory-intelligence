@@ -188,8 +188,6 @@ Install the main dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels jupyter
 ```
 
-The original dataset is not included in this repository.
-
 ---
 
 **Project takeaway:** Better inventory planning requires more than a single demand forecast. It requires understanding where demand occurs, how frequently it occurs, how variable it is, and how much confidence decision-makers should place in the model's predictions.
