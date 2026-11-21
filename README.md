@@ -19,8 +19,8 @@ This project investigates both questions using historical product demand data. I
 
 | Notebook | Focus |
 |---|---|
-| `Demand_Forecasting_Inventory_Intelligence.ipynb` | Warehouse and product demand analysis, demand variability, seasonality and inventory prioritisation |
-| `Demand_Forecasting.ipynb` | Weekly demand preparation, statistical forecasting, machine learning experiments and model evaluation |
+| [Demand_Forecasting_Inventory_Intelligence.ipynb](./Demand_Forecasting_Inventory_Intelligence.ipynb) | Warehouse and product demand analysis, demand variability, seasonality and inventory prioritisation |
+| [Demand_Forecasting.ipynb](./Demand_Forecasting.ipynb) | Weekly demand preparation, statistical forecasting, machine learning experiments and model evaluation |
 
 ## Part I — Understanding Inventory Demand
 
@@ -169,9 +169,9 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · XGBoost ·
 
 | File | Purpose |
 |---|---|
-| `Demand_Forecasting_Inventory_Intelligence.ipynb` | Exploratory demand analysis and inventory planning intelligence |
-| `Demand_Forecasting.ipynb` | Statistical and machine-learning forecasting experiments |
-| `images/` | Project visualisations |
+| [Demand_Forecasting_Inventory_Intelligence.ipynb](./Demand_Forecasting_Inventory_Intelligence.ipynb) | Exploratory demand analysis and inventory planning intelligence |
+| [Demand_Forecasting.ipynb](./Demand_Forecasting.ipynb) | Statistical and machine-learning forecasting experiments |
+| [Visualisations](./images/) | Project charts and analytical visualisations |
 
 ## Running the Project
 
