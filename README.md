@@ -1,4 +1,4 @@
-# Demand Forecasting & Inventory Planning Intelligence
+# Demand Forecasting and Inventory Planning Intelligence
 
 **From historical product demand to inventory planning insights and forecasting evaluation.**
 
